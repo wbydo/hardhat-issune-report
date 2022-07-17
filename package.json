@@ -7,6 +7,6 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "npm run -w sample-hardhat-project test"
+    "test": "yarn workspace sample-hardhat-project test"
   }
 }
