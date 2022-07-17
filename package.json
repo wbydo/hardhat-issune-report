@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-issune-report",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm run -w sample-hardhat-project test"
+  }
+}
